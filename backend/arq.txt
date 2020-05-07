@@ -1,0 +1,6 @@
+68
+1:00:55
+
+
+executa migrations
+npx knex migrate:latests
